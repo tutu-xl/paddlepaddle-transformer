@@ -1,0 +1,6 @@
+install the lastest version of paddlepaddle: https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/install/pip/windows-pip.html
+if you have installed the paddlepaddle
+you can enter:
+python or python3
+import paddle
+paddle.utils.run_check()
